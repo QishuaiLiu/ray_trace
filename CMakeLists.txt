@@ -8,6 +8,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(SOURCE_ONE_WEEK
    color.h
     vec3.h
+    ray.h
     main.cpp)
 
 add_executable(${PROJECT_NAME} ${SOURCE_ONE_WEEK})
