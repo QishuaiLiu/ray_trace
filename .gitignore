@@ -1,3 +1,5 @@
 .cache
 # .clang-format
 build
+image.ppm
+compile_commands.json
