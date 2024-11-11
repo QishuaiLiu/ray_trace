@@ -9,6 +9,10 @@ set(SOURCE_ONE_WEEK
    color.h
     vec3.h
     ray.h
+    hittable.h
+    sphere.h
+    hittable_list.h
+    rtweekend.h
     main.cpp)
 
 add_executable(${PROJECT_NAME} ${SOURCE_ONE_WEEK})
