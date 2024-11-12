@@ -2,4 +2,5 @@
 # .clang-format
 build
 image.ppm
+.clangd
 compile_commands.json
