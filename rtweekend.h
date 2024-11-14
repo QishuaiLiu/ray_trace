@@ -7,7 +7,7 @@
 #include <limits>
 #include <memory>
 #include <random>
-#include "interval.h"
+// #include "interval.h"
 
 using std::make_shared;
 using std::shared_ptr;
@@ -32,8 +32,7 @@ inline double random_double(double min, double max) {
 //     return distribution(generator);
 // }
 
-#include "color.h"
-#include "ray.h"
-#include "vec3.h"
+// #include "color.h"
+// #include "ray.h"
 
 #endif
